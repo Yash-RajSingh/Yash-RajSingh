@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-rajsingh&label=Profile%20views&color=0e75b6&style=flat" alt="yash-rajsingh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-rajsingh" alt="yash-rajsingh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-rajsingh&theme=onestar&margin-w=15" alt="yash-rajsingh" /></a> </p>
 
 - 🔭 I’m currently working on **a bunch of stuff.**
 
