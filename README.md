@@ -5,11 +5,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-rajsingh&theme=onestar&margin-w=15" alt="yash-rajsingh" /></a> </p>
 
-- 🔭 I’m currently working on **a bunch of stuff.**
+- 🔭 I’m currently working on **a gaming database website.**
 
-- 🌱 I’m currently learning **Express js and React js**
+- 🌱 I’m currently learning **Express js**
 
-- 💬 Ask me about **Vanilla-js and Firebase**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **galahad45202@gmail.com**
 
@@ -18,6 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yash-raj-singh-8a33a7214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-raj-singh-8a33a7214/" height="30" width="40" />
+<a href="https://yash-rajsingh.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="https://yash-rajsingh.netlify.app/" height="40" width="150" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
