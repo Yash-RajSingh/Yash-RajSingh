@@ -5,13 +5,12 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-rajsingh&theme=onestar&margin-w=15" alt="yash-rajsingh" /></a> </p>
 
-- 🔭 I’m currently working on **a chat application.**
+- 🔭 I’m currently working on **a couple of projects.**
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **Backend development.**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **JavaScript and ReactJs**
 
-- 📫 How to reach me **galahad45202@gmail.com**
 
 - ⚡ Fun fact: **Call me anti-social but please don't call me!**
 
